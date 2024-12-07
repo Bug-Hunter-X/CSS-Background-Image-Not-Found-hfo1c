@@ -1,0 +1,5 @@
+/* This CSS code attempts to style an element with a background image that doesn't exist. This will result in the background-image property having no effect. */
+
+.my-element {
+  background-image: url('missing-image.jpg');
+}
